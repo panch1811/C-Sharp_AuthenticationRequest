@@ -24,7 +24,8 @@ namespace AuthenticationRequest
                         using (var reader = new StreamReader(response.GetResponseStream()))
                         {
                             var responseMessage = reader.ReadToEnd();
-                            string filePath = Path.Combine("E:\\FE\\projects\\c#test\\", "response.txt");
+                            string outputDirectory = @"E:\FE\projects\c#test\";
+                            string filePath = Path.Combine(outputDirectory, "response.txt");
 
                             File.WriteAllText(filePath, responseMessage);
                         }
