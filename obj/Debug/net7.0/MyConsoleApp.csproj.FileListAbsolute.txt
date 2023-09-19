@@ -1,0 +1,14 @@
+E:\FE\projects\c#test\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+E:\FE\projects\c#test\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+E:\FE\projects\c#test\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+E:\FE\projects\c#test\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+E:\FE\projects\c#test\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+E:\FE\projects\c#test\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\FE\projects\c#test\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+E:\FE\projects\c#test\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+E:\FE\projects\c#test\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+E:\FE\projects\c#test\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+E:\FE\projects\c#test\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+E:\FE\projects\c#test\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+E:\FE\projects\c#test\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+E:\FE\projects\c#test\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
